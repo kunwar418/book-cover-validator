@@ -1,0 +1,11 @@
+{
+  "sample_record": {
+    "Book ID (ISBN)": "9789373145068",
+    "Author Name": "Ojal Jain",
+    "Author Email": "ojal@example.com",
+    "Status": "REVIEW NEEDED",
+    "Confidence Score": 40,
+    "Issue Type": "Badge overlap, Low resolution",
+    "Correction Instructions": "Move author name above bottom 9mm badge zone and upload higher resolution image"
+  }
+}
