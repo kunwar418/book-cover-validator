@@ -1,0 +1,6 @@
+opencv-python==4.9.0.80
+pillow==10.2.0
+pyairtable==3.3.0
+requests==2.31.0
+python-dotenv==1.2.2
+numpy==1.24.3
